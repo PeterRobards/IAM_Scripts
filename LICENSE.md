@@ -1,6 +1,6 @@
-# License Information for cipher.py
+# License Information for new_pass.py
 
-cipher.py is released under the MIT license
+new_pass.py is released under the MIT license
 
 ## MIT License (MIT)
 
