@@ -1,10 +1,11 @@
 # IAM Scripts
 
 This repository houses python scripts designed to assist with Identity and Access Management (IAM).
-The current main file here is new_pass.py which creates new passwords based on user provided parameters.
+The current main file here is `new_pass.py` which creates new passwords based on user provided parameters.
+An additional shell script:`new_pass.sh` also facillitates the creation of passwords, but provides less features.
 This repository is a work in progress and more scripts will be added as they are developed/needed.
 
-## Getting Started
+## Getting Started with `new_pass.py`
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 Note: this program was built and optimized for Python 3.x - we recommend Python Version=3.8.5 
